@@ -147,6 +147,14 @@ li {
 
 }
 
+.section-two {
+    background-color: red;
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
 
 
 
