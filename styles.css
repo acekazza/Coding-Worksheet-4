@@ -190,6 +190,29 @@ li {
     color: rgb(19, 19, 19);
     font-size: 20px;
 }
+
+button {
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    padding: 10px;
+    margin: 2px;
+    transition-duration: .4s;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+    
+}
+
+button:active {
+    background-color:#3e8e41;
+    box-shadow: 0 5px red;
+    transform: translateY(4px);
+    
+} 
    
 
 
